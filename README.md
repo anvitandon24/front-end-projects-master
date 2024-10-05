@@ -159,9 +159,7 @@ A modern design concept to showcase content in a container with two splitted sec
   
 ### 10. Escape Loading Animation - CSS
 
-Cool loading animation with pure CSS. Animation contains sliding and floating boxes, designed by [Vitaly Silkin](https://dribbble.com/shots/4268258-Evitare-loader).
-
-**[Online Demo](https://behnamazimi.github.io/simple-web-projects/css-escape-loading-animation/)**
+Cool loading animation with pure CSS. Animation contains sliding and floating boxes.
 
 **Special topics covered:**
 
@@ -211,6 +209,9 @@ Here's a simple guide on how you can get involved:
 
 3. **Submit a pull request**: Once you are satisfied with your changes, submit a pull request on this repository. This will notify the project maintainers about your proposed changes. We will review your submission, provide feedback, and collaborate with you to ensure the quality and relevance of your contribution.
 
-> Remember, this is a friendly and inclusive community. We appreciate all contributions, regardless of your level of experience. Feel free to ask questions and seek guidance along the way. 
+author details:
+LinkedIn: https://www.linkedin.com/in/anvi-tandon-84991024b/
+email: anvitandon112020@gmail.com 
+
 
 Thank you for your interest in making this repository even better. Together, we can create an invaluable resource for beginners in the world of front-end development!
